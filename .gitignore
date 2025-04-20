@@ -28,6 +28,8 @@ build/
 __pycache__/
 *.pyc
 *.pyo
+*.mp4
+*.MP4
 
 # Jupyter Notebook
 .ipynb_checkpoints/
