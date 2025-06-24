@@ -1,3 +1,6 @@
+This is a fork of https://github.com/alxkh18/UpRightly-PostureMonitor. Original project by Mokshitha and Alekhya.
+I contributed to design, coding, and documentation.
+
 # 🧍‍♂️ UpRightly – Front View Posture Analysis using MediaPipe
 
 This project is a real-time posture monitoring tool using MediaPipe Pose, OpenCV, and pyttsx3 for voice alerts. Unlike most posture monitoring systems that rely on side-view cameras to analyze spine alignment, this tool works with a front-facing webcam, making it easier and more accessible for everyday use — especially on laptops.
